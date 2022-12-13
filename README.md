@@ -14,6 +14,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![IssuesClossed][issues-shield-clossed]][issues-url-clossed]
 
 Сервис разработан в первую очередь для закрепления практических навыков разработки на 1С.
 Мы уверены, что только через практику каждый из нас сможет гораздо быстрее обрести необходимые знания.
@@ -38,6 +39,11 @@
 [stars-shield]: https://img.shields.io/github/stars/leandr92/Academy_Devins?style=for-the-badge
 [stars-url]: https://github.com/github/stars/:leandr92/:Academy_Devins/total
 [issues-shield]: https://img.shields.io/github/issues/leandr92/Academy_Devins?style=for-the-badge
-[issues-url]: https://github.com/github/issues/:leandr92/:Academy_Devins/total
+[issues-url]: https://github.com/leandr92/Academy_Devins/issues
+
+[issues-shield-clossed]: https://img.shields.io/github/issues-closed-raw/leandr92/Academy_Devins?style=for-the-badge
+[issues-url-clossed]: https://github.com/leandr92/Academy_Devins/issues?q=is%3Aissue+is%3Aclosed
+
+
 [product-screenshot]: images/screenshot.png
 
