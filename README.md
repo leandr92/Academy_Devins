@@ -33,11 +33,11 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/leandr92/Academy_Devins?style=for-the-badge
-[contributors-url]: https://github.com/github/downloads/:leandr92/:Academy_Devins/total
+[contributors-url]: https://github.com/leandr92/Academy_Devins/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/leandr92/Academy_Devins?style=for-the-badge
-[forks-url]: https://github.com/github/forks/:leandr92/:Academy_Devins/total
+[forks-url]: https://github.com/leandr92/Academy_Devin/network/members
 [stars-shield]: https://img.shields.io/github/stars/leandr92/Academy_Devins?style=for-the-badge
-[stars-url]: https://github.com/github/stars/:leandr92/:Academy_Devins/total
+[stars-url]: https://github.com/leandr92/Academy_Devins/stargazers
 [issues-shield]: https://img.shields.io/github/issues/leandr92/Academy_Devins?style=for-the-badge
 [issues-url]: https://github.com/leandr92/Academy_Devins/issues
 
