@@ -28,6 +28,7 @@
 Следите за новостями в <a href="https://t.me/academy_devins">телеграм-канале академии</a>
 Обсуждайте свой прогресс в  <a href="https://t.me/+lovD4Zd3qS40YmQy"> телеграм-чате </a>
 
+История изменений <a href="https://github.com/leandr92/Academy_Devins/blob/main/CHANGELOG.md">здесь</a>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
