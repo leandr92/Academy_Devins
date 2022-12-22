@@ -15,6 +15,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![IssuesClossed][issues-shield-clossed]][issues-url-clossed]
+[![ChangeLog][ChangeLog-shield]][ChangeLog-url]
 
 Сервис разработан в первую очередь для закрепления практических навыков разработки на 1С.
 Мы уверены, что только через практику каждый из нас сможет гораздо быстрее обрести необходимые знания.
@@ -41,10 +42,9 @@
 [stars-url]: https://github.com/leandr92/Academy_Devins/stargazers
 [issues-shield]: https://img.shields.io/github/issues/leandr92/Academy_Devins?style=for-the-badge
 [issues-url]: https://github.com/leandr92/Academy_Devins/issues
-
 [issues-shield-clossed]: https://img.shields.io/github/issues-closed-raw/leandr92/Academy_Devins?style=for-the-badge
 [issues-url-clossed]: https://github.com/leandr92/Academy_Devins/issues?q=is%3Aissue+is%3Aclosed
-
-
+[ChangeLog-shield]: https://img.shields.io/github/issues-closed-raw/leandr92/Academy_Devins?style=for-the-badge
+[ChangeLog-url]: https://github.com/leandr92/Academy_Devins/blob/main/CHANGELOG.md
 [product-screenshot]: images/screenshot.png
 
