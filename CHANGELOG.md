@@ -23,7 +23,7 @@
 - DELETE запрос;  
 - PUT запрос.
 
-#####  Обновены и дополнены статьи про запросы 1С: 
+#####  Обновлены и дополнены статьи про запросы 1С: 
 - "Устройство базы данных 1С" https://academy.dev-ins.ru/lessons/ustrojstvo-bazy-dannyh-1s/
 - "Функции для работы с датами в языке запросов" https://academy.dev-ins.ru/lessons/funktsii-dlja-raboty-s-datami-v-jazyke-zaprosov/
 - "Работа со строками в языке запросов" https://academy.dev-ins.ru/lessons/rabota-so-strokami-v-jazyke-zaprosov/
